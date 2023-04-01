@@ -8,7 +8,7 @@ Due to the outbreak of COVID-19 in Mauritius, the Mauritius Revenue Authority (M
 
 ## Application
 
-The application implemented is a sample Java based application using the Swing UI library. This application allows elligble users to apply for a financial support of Rs 5,100 from the Government of Mauritius. **NOTE: This application has been implemented as part of a university assignment and has not been deployed in real.**
+The application implemented is a sample Java based application using the Swing UI library. This application allows eligible users to apply for a financial support of Rs 5,100 from the Government of Mauritius. **NOTE: This application has been implemented as part of a university assignment and has not been deployed in real.**
 
 ## Screenshots of different screens
 
